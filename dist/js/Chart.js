@@ -1,6 +1,6 @@
 /*!
  * Chart.js
- * http://chartjs.org/
+ * http://chartjs.org/ mexi
  *
  * Copyright 2013 Nick Downie
  * Released under the MIT license
